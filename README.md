@@ -21,6 +21,15 @@
 
 This  HR Analytics Dashboard provides key insights into workforce demographics, promotions, retention, job satisfaction, and workplace efficiency. This project leverages data visualization to help HR professionals make informed decisions, optimize employee management, and enhance overall workforce performance.
 
+
+
+![HR screenshot 1](https://github.com/user-attachments/assets/fd6d1d50-e48d-4b7f-9062-1db2caebaf0c)
+
+
+![HR screenshot 2](https://github.com/user-attachments/assets/2b220236-7462-4d44-8bb4-8eecf18da3b0)
+
+
+
 # Business Introduction
 
 Human Resource (HR) management plays a crucial role in business operations, impacting employee satisfaction, retention, and organizational success. Effective HR analytics can help businesses understand workforce trends, improve employee engagement, and streamline HR processes.
