@@ -1,4 +1,4 @@
-# HR Analytics Dashboard - using an interative 
+# HR Analytics Dashboard - using an interactive power bi dashboard to exlain HR analytics
 
 
 # Table of Contents
